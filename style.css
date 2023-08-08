@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 80px;
 
 }
 
@@ -43,5 +44,16 @@ section {
 }
 
 .my-photo {
+    border-radius: 50px;
+}
+
+.dream-big {
+    background-image: url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 60px;
+}
+
+.my-second-photo {
     border-radius: 50px;
 }
